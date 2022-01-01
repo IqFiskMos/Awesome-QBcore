@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# QBcore Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# QBcore Awesome List [![lint](https://github.com/IqFiskMos/Awesome-QBcore/actions/workflows/lint.yaml/badge.svg)](https://github.com/IqFiskMos/Awesome-QBcore/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
