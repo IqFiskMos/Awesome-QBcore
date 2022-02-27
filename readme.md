@@ -36,7 +36,7 @@ This repo is a place to gather everything you need to know for QBCore
 
 ## txAdminRecipes
 
-- 
+- [QBCore Framework](https://github.com/qbcore-framework/txAdminRecipe) - Complete RP Server.
 
 ## Snippets
 
