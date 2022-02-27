@@ -25,7 +25,7 @@ This repo is a place to gather everything you need to know for QBCore
 
 ## Contents
 
-- [txAdminRecipe's](#txadminrecipe's)
+- [txAdminRecipes](#txadminrecipes)
 - [Snippets](#snippets)
 - [Jobs](#jobs)
 - [Phones](#phones)
@@ -34,7 +34,7 @@ This repo is a place to gather everything you need to know for QBCore
 
 <!-- CONTENT -->
 
-## txAdminRecipe's
+## txAdminRecipes
 
 - 
 
