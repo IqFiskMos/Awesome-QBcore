@@ -26,26 +26,39 @@ This repo is a place to gather everything you need to know for QBCore
 ## Contents
 
 - [Getting started](#getting-started)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Snippets](#snippets)
+- [Jobs](#jobs)
+- [Phones](#phones)
+- [Inventorys](#inventorys)
+- [Crimes](#crimes)
 
 <!-- CONTENT -->
 
 ## Getting started
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- 
 
-## Section 1
+## Snippets
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- 
 
-<!-- END CONTENT -->
+## Jobs
 
-## Follow
+- 
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+## Phones
 
-Who else should we be following!?
+- 
+
+## Inventorys
+
+- 
+
+## Crimes
+
+- 
+
+<!-- END OF CONTENT -->
 
 ## Contributing
 
