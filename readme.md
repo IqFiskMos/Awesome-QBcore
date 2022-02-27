@@ -25,7 +25,7 @@ This repo is a place to gather everything you need to know for QBCore
 
 ## Contents
 
-- [Getting started](#getting started)
+- [Getting started](#getting-started)
 - [Section 1](#section-1)
 - [Follow](#follow)
 
